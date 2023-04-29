@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "cypress": "^12.9.0"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^16.0.3",
+    "@cypress/browserify-preprocessor": "^3.0.2"
   }
 }
